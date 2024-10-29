@@ -2,8 +2,8 @@
 
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
-#### Name : ARSHITHA MS
-#### Register Number : 212223240015
+#### Name : Sana Fathima H
+#### Register Number : 212223240145
 # EXPLANATION:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
